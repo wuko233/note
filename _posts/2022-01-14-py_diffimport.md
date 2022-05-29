@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: 记:Python导入不同路径文件
 categories: [PYTHON]
 ---
